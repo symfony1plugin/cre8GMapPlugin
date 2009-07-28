@@ -1,0 +1,9 @@
+all:
+  cre8:
+    gmap:
+      keys:
+        dev.yumyum.com:        'ABQIAAAA4aSw06WzyXOyrEN8T3uDjhRm5YJwToBGYHLW5hH_6KSL222BERQtVINz0HHAkCLrFvm4ZrheVT0WcQ'
+      centre:
+        lat:          '51.562105076015385'
+        lng:          '-0.07676482200622559'
+  

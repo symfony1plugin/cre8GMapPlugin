@@ -1,0 +1,2 @@
+all:
+  stylesheets: [/cre8GMapPlugin/css/cre8GMapPlugin.css]

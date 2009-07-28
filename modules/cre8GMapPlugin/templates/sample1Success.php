@@ -1,0 +1,1 @@
+<?php include_partial('gMap', array('gMap' => $gMap)); ?>
