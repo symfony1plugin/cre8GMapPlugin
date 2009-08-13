@@ -112,7 +112,7 @@ class GMap
    */
   public static function getAPIKeyByDomain($domain)
   {
-    $api_keys = sfConfig::get('app_cre8_google_maps_keys');
+    $api_keys = sfConfig::get('app_cre8GMap_keys');
     
     if (is_null($api_keys))
     {

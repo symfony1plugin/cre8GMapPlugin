@@ -46,7 +46,7 @@ function mapaStart()
 		marker2 = new GLatLng(51.526486, -0.279919);
 		map.addOverlay(new GMarker(marker2));
 		measure();
-        
+        alert('ok');
     }  
 }  
 
